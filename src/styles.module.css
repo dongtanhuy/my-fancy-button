@@ -7,3 +7,30 @@
   font-size: 2em;
   text-align: center;
 }
+.button {
+  color: #fff;
+  border-radius: 4px;
+  padding: 6px 16px;
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+}
+
+.default {
+  color:rgba(0, 0, 0, 0.87);
+  background-color: #e0e0e0;
+}
+
+.primary {
+  background-color: #1976d2;
+  color:#fff;
+}
+
+.danger {
+  background-color: rgb(220, 0, 78);
+}
+
+.disabled {
+  color: rgba(0, 0, 0, 0.26);
+  background-color: rgba(0, 0, 0, 0.12);
+}
